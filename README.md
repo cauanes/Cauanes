@@ -8,7 +8,9 @@ Hi, there. I'm Cauan Esplugues Silva
 Key Areas:
 
 **Financial Data Analysis** 📊📈
+
 **Capital Markets** 🏦💼
+
 **Foreign Exchange** (Forex) 💱🌐
 
 Open for collaboration and always eager to learn. Let's connect and share insights! 📊🚀
