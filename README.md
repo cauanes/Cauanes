@@ -1,6 +1,5 @@
 # About_me
-Hi, there. I'm Cauan Esplugues Silva                   <a href = "mailto:cauanespluguessilva"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cauan-esplugues-silva-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Hi, there. I'm Cauan Esplugues Silva                    
 
 📈 **Economic Student** (2/8) | **Financial Data Analyst in progress** 🌐
 
@@ -14,6 +13,7 @@ Key Areas:
 
 Open for collaboration and always eager to learn. Let's connect and share insights! 📊🚀
 
-
+<a href = "mailto:cauanespluguessilva"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cauan-esplugues-silva-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
