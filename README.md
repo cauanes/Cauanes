@@ -1,4 +1,5 @@
-About Me
+# About Me
+
 Hi, there. I'm Cauan Esplugues Silva
 
 🎓 Economics Student (3/8) | Data Analyst 🌐
