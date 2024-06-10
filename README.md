@@ -1,21 +1,17 @@
-# About_me
-Hi, there. I'm Cauan Esplugues Silva                    
+About Me
+Hi, there. I'm Cauan Esplugues Silva
 
-📈 **Economic Student** (2/8) | **Financial Data Analyst in progress** 🌐
+🎓 Economics Student (3/8) | Data Analyst 🌐
 
-🎓 Graduated with an MSc in Psychology, I'm on an academic journey exploring the fusion of psychology and finance. As an Economic Student (2/8), I dive into the realms of capital markets and foreign exchange through the lens of Financial Data Analysis. 💹 Let's decipher financial narratives together! 🚀
+🎓 Graduated with an MSc in Psychology, currently pursuing a postgraduate degree in Artificial Intelligence and Machine Learning. I'm on an academic journey exploring the fusion of psychology, finance, and advanced technologies. As an Economics Student, I delve into the realms of data science through the lens of Data Analysis. 📊 Let's uncover insights from data together! 🚀
 
-Key Areas:
+Key Areas of Expertise:
 
-**Financial Data Analysis** 📊📈
+Data Science 📊🧠
 
-**Capital Markets** 🏦💼
+Financial Data Analysis 📈💹
 
-**Foreign Exchange** (Forex) 💱🌐
+I am open to collaboration and always eager to learn. Let's connect and share insights! 📊🚀
 
-Open for collaboration and always eager to learn. Let's connect and share insights! 📊🚀
-
-<a href = "mailto:cauanespluguessilva"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cauan-esplugues-silva-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
+<a href="mailto:cauanespluguessilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/cauan-esplugues-silva-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
