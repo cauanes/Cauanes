@@ -2,7 +2,7 @@
 
 Hi, there. I'm Cauan Esplugues Silva
 
-🎓 Economics Student (4/8) | Data Analyst 🌐
+🎓 Economics Student (4/8) | Data Analyst/Fund Controller 🌐
 
 🎓 Graduated with an MSc in Psychology, currently pursuing a postgraduate degree in Artificial Intelligence and Machine Learning. I'm on an academic journey exploring the fusion of psychology, finance, and advanced technologies. As an Economics Student, I delve into the realms of data science through the lens of Data Analysis. 📊 Let's uncover insights from data together! 🚀
 
